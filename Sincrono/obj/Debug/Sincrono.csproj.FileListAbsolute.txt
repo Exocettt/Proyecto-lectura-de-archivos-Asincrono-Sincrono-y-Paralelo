@@ -1,0 +1,7 @@
+C:\Escuela\repos\ProyectoAsync\Sincrono\bin\Debug\Sincrono.exe.config
+C:\Escuela\repos\ProyectoAsync\Sincrono\bin\Debug\Sincrono.exe
+C:\Escuela\repos\ProyectoAsync\Sincrono\bin\Debug\Sincrono.pdb
+C:\Escuela\repos\ProyectoAsync\Sincrono\obj\Debug\Sincrono.csproj.AssemblyReference.cache
+C:\Escuela\repos\ProyectoAsync\Sincrono\obj\Debug\Sincrono.csproj.CoreCompileInputs.cache
+C:\Escuela\repos\ProyectoAsync\Sincrono\obj\Debug\Sincrono.exe
+C:\Escuela\repos\ProyectoAsync\Sincrono\obj\Debug\Sincrono.pdb

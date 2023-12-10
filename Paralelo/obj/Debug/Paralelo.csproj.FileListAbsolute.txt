@@ -1,0 +1,7 @@
+C:\Escuela\repos\ProyectoAsync\Paralelo\obj\Debug\Paralelo.csproj.AssemblyReference.cache
+C:\Escuela\repos\ProyectoAsync\Paralelo\obj\Debug\Paralelo.csproj.CoreCompileInputs.cache
+C:\Escuela\repos\ProyectoAsync\Paralelo\bin\Debug\Paralelo.exe.config
+C:\Escuela\repos\ProyectoAsync\Paralelo\bin\Debug\Paralelo.exe
+C:\Escuela\repos\ProyectoAsync\Paralelo\bin\Debug\Paralelo.pdb
+C:\Escuela\repos\ProyectoAsync\Paralelo\obj\Debug\Paralelo.exe
+C:\Escuela\repos\ProyectoAsync\Paralelo\obj\Debug\Paralelo.pdb

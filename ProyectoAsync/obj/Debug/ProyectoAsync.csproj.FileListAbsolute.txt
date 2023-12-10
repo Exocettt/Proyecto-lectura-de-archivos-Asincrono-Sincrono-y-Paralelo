@@ -1,0 +1,7 @@
+C:\Escuela\repos\ProyectoAsync\ProyectoAsync\bin\Debug\ProyectoAsync.exe.config
+C:\Escuela\repos\ProyectoAsync\ProyectoAsync\bin\Debug\ProyectoAsync.exe
+C:\Escuela\repos\ProyectoAsync\ProyectoAsync\bin\Debug\ProyectoAsync.pdb
+C:\Escuela\repos\ProyectoAsync\ProyectoAsync\obj\Debug\ProyectoAsync.csproj.AssemblyReference.cache
+C:\Escuela\repos\ProyectoAsync\ProyectoAsync\obj\Debug\ProyectoAsync.csproj.CoreCompileInputs.cache
+C:\Escuela\repos\ProyectoAsync\ProyectoAsync\obj\Debug\ProyectoAsync.exe
+C:\Escuela\repos\ProyectoAsync\ProyectoAsync\obj\Debug\ProyectoAsync.pdb

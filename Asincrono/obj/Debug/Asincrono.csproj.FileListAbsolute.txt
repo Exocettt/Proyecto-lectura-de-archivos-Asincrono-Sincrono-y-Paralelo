@@ -1,0 +1,7 @@
+C:\Escuela\repos\ProyectoAsync\Asincrono\bin\Debug\Asincrono.exe.config
+C:\Escuela\repos\ProyectoAsync\Asincrono\bin\Debug\Asincrono.exe
+C:\Escuela\repos\ProyectoAsync\Asincrono\bin\Debug\Asincrono.pdb
+C:\Escuela\repos\ProyectoAsync\Asincrono\obj\Debug\Asincrono.csproj.AssemblyReference.cache
+C:\Escuela\repos\ProyectoAsync\Asincrono\obj\Debug\Asincrono.csproj.CoreCompileInputs.cache
+C:\Escuela\repos\ProyectoAsync\Asincrono\obj\Debug\Asincrono.exe
+C:\Escuela\repos\ProyectoAsync\Asincrono\obj\Debug\Asincrono.pdb
