@@ -42,6 +42,8 @@ namespace ProyectoAsync
 
             double tiempo = cronometro.Elapsed.TotalSeconds;
             Console.WriteLine("Tiempo que tardo en leer los archivos: {0} segundos", tiempo);
+            Console.WriteLine("Presione cualquier tecla para salir...");
+            Console.ReadKey();
         }
     }
 }
